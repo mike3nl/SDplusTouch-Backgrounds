@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "images": "images/",
+    "id": "mike3nl_SDplusTouch-Backgrounds",
+    "name": "SDplusTouch-Backgrounds",
+    "thumbnail": "store/thumbnail.png",
+    "descriptions": {
+        "en_US": "Some of my favorite background images for the SD+ touch screen."
+    },
+    "description": "Some of my favorite background images for the SD+ touch screen."
+}
